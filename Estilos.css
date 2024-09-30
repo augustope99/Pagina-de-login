@@ -225,5 +225,5 @@ body{
    }
 
    .container input:hover {
-       transform: scale(1.2); /* Aumenta o tamanho do input em 10% */
+       transform: scale(1.0); /* Aumenta o tamanho do input em 10% */
    }
