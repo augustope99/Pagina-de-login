@@ -217,6 +217,6 @@ body{
     100% { transform: translateY(0); }
 }
 
-.form-container sign-in > h1 {
+.moving-text {
     animation: move-text 1s ease-in-out infinite;
 }
